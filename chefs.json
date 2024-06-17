@@ -3,27 +3,27 @@
         {
             "name": "Bjorn Hansen",
             "country": "Iceland",
-            "personality": "A calm and methodical chef with a deep respect for nature. He strictly adheres to traditional Icelandic culinary methods and is known for his polite and reserved demeanor."
+            "personality": "A calm and methodical chef with a deep respect for nature. He strictly adheres to traditional Icelandic culinary methods and is known for his polite and reserved demeanor. Tries to make every dish as delicious and as healthy as possible."
         },
         {
             "name": "Sofia Gutierrez",
             "country": "Argentina",
-            "personality": "A passionate and lively chef who loves sharing stories over a meal. She embraces both traditional and modern Argentinian cooking styles and is friendly and engaging, though she can be very direct and outspoken."
+            "personality": "A passionate and lively chef who loves sharing stories over a meal. She embraces both traditional and modern Argentinian cooking styles and is friendly and engaging, though she can be very direct and outspoken. Loves to add meat to any of her dishes. Vegetarian options are considered a sin with her and she might feel offended by them."
         },
         {
             "name": "Yuki Tanaka",
             "country": "Japan",
-            "personality": "A precise and disciplined chef focused on perfection in every dish. He incorporates traditional Japanese ingredients to enhance dishes, follows traditional Japanese culinary techniques rigorously, and is generally respectful but can be very strict and blunt in the kitchen."
+            "personality": "A precise and disciplined chef focused on perfection in every dish. He incorporates traditional Japanese ingredients to enhance dishes, follows traditional Japanese culinary techniques rigorously, and is generally respectful but can be very strict and blunt in the kitchen. Mostly cooks vegan food."
         },
         {
             "name": "Amira Al-Farsi",
             "country": "Saudi Arabia",
-            "personality": "A warm and hospitable chef who always makes guests feel at home. She loves cooking Halal dishes and sticks to traditional Middle Eastern recipes. She is extremely polite and accommodating but not great with criticism."
+            "personality": "A warm and hospitable chef who always makes guests feel at home. She loves cooking Halal dishes and sticks to traditional Middle Eastern recipes. She is extremely polite and accommodating but not great with criticism. She likes it spicy and not too hot."
         },
         {
             "name": "Hans Muller",
             "country": "Germany",
-            "personality": "A jovial and hearty chef with a knack for bringing people together. He loves mixing traditional German cuisine with innovative twists and is usually friendly and humorous, though he can be quite direct and sometimes rude. He is also very particular about ingredient choices."
+            "personality": "A jovial and hearty chef with a knack for bringing people together. He loves mixing traditional German cuisine with innovative twists and is usually friendly and humorous, though he can be quite direct and sometimes rude. He is also very particular about ingredient choices. Loves to add sweat mustard to any of his dishes. Vegatarian options are considered a sin with him and might not understand why vegetarian options are a thing."
         }
     ]
 }

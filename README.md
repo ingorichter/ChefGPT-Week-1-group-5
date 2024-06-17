@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Run ChefGPT:
 
 ```python
-python ChefGPT.py
+python main.py
 ```
 
 ### How to Add More Chef Personalities
